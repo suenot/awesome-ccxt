@@ -17,6 +17,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
   - [API](#api)
   - [AI](#ai)
   - [Utils](#utils)
+  - [Languages](#languages)
   - [Javascript examples](#javascript-examples)
   - [Python examples](#python-examples)
   - [PHP examples](#php-examples)
@@ -26,27 +27,61 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Trading bots
 
-* [CryptoMon Bot](https://github.com/jchristov/cryptomon-bot) - helps tracking of your cryptocurrency investments and making smart, informed buy/sell decisions.
+* [CryptoMon Bot](https://github.com/jchristov/cryptomon-bot) - Helps tracking of your cryptocurrency investments and making smart, informed buy/sell decisions.
 
-* [ZenBot](https://github.com/carlos8f/zenbot) - a command-line cryptocurrency trading bot using Node.js and MongoDB.
+* [ZenBot](https://github.com/carlos8f/zenbot) - A command-line cryptocurrency trading bot using Node.js and MongoDB.
+
+* [Titan](https://github.com/Denton24646/Titan) - Based on python, flask, postgres.
+
+* [Python-crypto-Bot](https://github.com/Seigneur774/Python-crypto-Bot)
+
+# Signals
+
+* [Peregrine](https://github.com/wardbradt/peregrine) - Arbitrage on python.
+
+* [ccxt-arbitrage](https://github.com/ArthurAnanda/ccxt-arbitrage-v1)
 
 ## Trading toolkits
 
 * [The Coinbase Pro trading toolkit (CPTT)](https://github.com/coinbase/coinbase-pro-trading-toolkit) – a trading toolkit developed by the coinbase team that integrates with ccxt, bitfinex, bitmex, bittrex, coinbasePro, gemini, poloniex.
 
+* [bt-ccxt-store](https://github.com/Dave-Vallance/bt-ccxt-store) – Store with backtesting. #python
+
+* [ZTOM](https://github.com/ztomsy/ztom) - #python, #backtesting, #rest, orders manager, loggin, reporting, throttling control.
+
 ## Trading terminals
 
-* [Kupi-terminal](https://github.com/kupi-network/kupi-terminal) - Open source, customized, extendable trading platform based on js, vue, react, express, mongo.
+* [Kupi-terminal](https://github.com/kupi-network/kupi-terminal) - Customized, extendable trading platform based on js, vue, react, express (rest api), mongo. Can: plot OHLCV, buy/sell, show balances, history balances, orders, my orders, my trades.
+
+* [ccxt-trading-cp](https://github.com/michnovka/ccxt-trading-cp) - Trading terminal in console: plot OHLCV, find arbitrage signals, buy/sell, show balances.
+
+* [Auto-Trade-Crypto-Bot](https://github.com/dev4Fun/Auto-Trade-Crypto-Bot) - Crypto trading #bot in #python with #telegram.
 
 ## Analytics platforms
 
 ## API
+
+* [ccxt-rest](https://github.com/franz-see/ccxt-rest) - Unified REST API on #javascript
+
+* [ccxt-microservice](https://github.com/xeno14/ccxt-microservice) - Unified REST API on #python
+
+* [ccxt-server](https://github.com/mpakus/ccxt-server) - #javascript
 
 ## AI
 
 ## Utils
 
 * [bitcoin-chart-cli](https://github.com/madnight/bitcoin-chart-cli) by [madnight](https://github.com/madnight) – a command-line console util that draws Bitcoin, Ether, Litecoin and many altcoin charts right in the terminal!
+
+## Languages
+
+* [CCXT](https://github.com/ccxt/ccxt) - Javascript, python, php.
+
+* [CCXT.NET](https://github.com/lisa3907/ccxt.net) - C#.
+
+* [ccxtex](https://github.com/metachaos-systems/ccxtex) - Elixir/Erlang.
+
+* [ccxt.dart](https://github.com/Sach97/ccxt.dart) - Dart.
 
 ## Javascript examples
 
@@ -146,4 +181,5 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [LOC-Extension](https://github.com/walkjivefly/LOC-Extension) – a LibreOffice extension which embeds ccxt to provide cryptocurrency price lookup in your spreadsheets.
 
 # Contributing
+
 Please see [CONTRIBUTING](https://github.com/suenot/awesome-ccxt/blob/master/CONTRIBUTING.md) for details.
