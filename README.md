@@ -35,6 +35,8 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 * [Python-crypto-Bot](https://github.com/Seigneur774/Python-crypto-Bot)
 
+* [Taurus](https://github.com/OptimalPandemic/taurus) - A cryptocurrency trading platform using deep reinforcement learning.
+
 # Signals
 
 * [Peregrine](https://github.com/wardbradt/peregrine) - Arbitrage on python.
@@ -72,6 +74,8 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Utils
 
 * [bitcoin-chart-cli](https://github.com/madnight/bitcoin-chart-cli) by [madnight](https://github.com/madnight) – a command-line console util that draws Bitcoin, Ether, Litecoin and many altcoin charts right in the terminal!
+
+* [node-red-contrib-ccxt](https://github.com/masalinas/node-red-contrib-ccxt) - Node-red integration.
 
 ## Languages
 
