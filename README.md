@@ -35,7 +35,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 * [Python-crypto-Bot](https://github.com/Seigneur774/Python-crypto-Bot)
 
-# Signals
+## Signals
 
 * [Peregrine](https://github.com/wardbradt/peregrine) - Arbitrage on python.
 
@@ -51,7 +51,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Trading terminals
 
-* [Kupi-terminal](https://github.com/kupi-network/kupi-terminal) - Customized, extendable trading platform based on js, vue, react, express (rest api), mongo. Can: plot OHLCV, buy/sell, show balances, history balances, orders, my orders, my trades.
+* [Kupi-terminal](https://github.com/kupi-network/kupi-terminal) - Customized, extendable trading platform based on js, vue, react, express (rest api), mongo. Can: plot OHLCV, buy/sell, show balances, history balances, orders, trades, my orders, my trades.
 
 * [ccxt-trading-cp](https://github.com/michnovka/ccxt-trading-cp) - Trading terminal in console: plot OHLCV, find arbitrage signals, buy/sell, show balances.
 
