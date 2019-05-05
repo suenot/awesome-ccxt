@@ -35,8 +35,6 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 * [Python-crypto-Bot](https://github.com/Seigneur774/Python-crypto-Bot)
 
-* [Taurus](https://github.com/OptimalPandemic/taurus) - A cryptocurrency trading platform using deep reinforcement learning.
-
 # Signals
 
 * [Peregrine](https://github.com/wardbradt/peregrine) - Arbitrage on python.
@@ -70,6 +68,8 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [ccxt-server](https://github.com/mpakus/ccxt-server) - #javascript
 
 ## AI
+
+* [Taurus](https://github.com/OptimalPandemic/taurus) - A cryptocurrency trading platform using deep reinforcement learning.
 
 ## Utils
 
