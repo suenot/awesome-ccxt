@@ -5,9 +5,9 @@ Awesome CCXT
 
 A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources. Free assets and resources are prioritized over paid when possible.
 
-Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for more information before submitting a pull request.
+Suggestions and contributions are always welcome! Make sure to read the [contribution guidelines](https://github.com/suenot/awesome-ccxt/blob/master/CONTRIBUTING.md) for more information before submitting a pull request.
 
-Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/graphs/contributors), this wouldn't be possible without you!
+Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/contributors), this wouldn't be possible without you!
 
 - [Awesome CCXT](#awesome-ccxt)
   - [Trading bots](#trading-bots)
