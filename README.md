@@ -30,12 +30,14 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 - [ZenBot](https://github.com/carlos8f/zenbot) - A command-line cryptocurrency trading bot using Node.js and MongoDB.
 - [Titan](https://github.com/Denton24646/Titan) - Based on python, flask, postgres.
 - [Python-crypto-Bot](https://github.com/Seigneur774/Python-crypto-Bot)
+- [Nash] - https://github.com/joelsfoster/Nash - Arbitrage bot on meteorjs
 
 ## Signals
 
 - [Peregrine](https://github.com/wardbradt/peregrine) - Arbitrage on python.
 - [ccxt-arbitrage](https://github.com/ArthurAnanda/ccxt-arbitrage-v1)
 - [crypto-arbitrage-framework](https://github.com/hzjken/crypto-arbitrage-framework)
+- [Nash] - https://github.com/joelsfoster/Nash - Arbitrage bot on meteorjs
 
 ## Trading toolkits
 
