@@ -46,6 +46,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 - [The Coinbase Pro trading toolkit (CPTT)](https://github.com/coinbase/coinbase-pro-trading-toolkit) – a trading toolkit developed by the coinbase team that integrates with ccxt, bitfinex, bitmex, bittrex, coinbasePro, gemini, poloniex.
 - [bt-ccxt-store](https://github.com/Dave-Vallance/bt-ccxt-store) – Store with backtesting. #python
 - [ZTOM](https://github.com/ztomsy/ztom) - #python, #backtesting, #rest, orders manager, loggin, reporting, throttling control.
+- [TradingSystemDemo](https://github.com/FWangTrading/TradingSystemDemo) - #Catalyst, #CryptoCompare, #backtesting, #alerts, #trading, #python
 
 ## Trading terminals
 
