@@ -57,6 +57,8 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 
 ## Analytics platforms
 
+- [CoinTop](https://github.com/fatihacet/CoinTop) - portfolio with secure access to keys
+
 ## API
 
 - [ccxt-rest](https://github.com/franz-see/ccxt-rest) - Unified REST API on #javascript
