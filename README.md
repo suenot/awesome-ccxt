@@ -59,6 +59,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 
 - [CoinTop](https://github.com/fatihacet/CoinTop) - portfolio with secure access to keys
 - [DACP](https://github.com/Pyeskyhigh/DACP) - portfolio
+- [hodlwatch](https://github.com/belaczek/hodlwatch) - portfolio
 
 ## API
 
