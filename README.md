@@ -41,6 +41,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 - [crypto-arbitrage-framework](https://github.com/hzjken/crypto-arbitrage-framework)
 - [Nash](https://github.com/joelsfoster/Nash) - Arbitrage bot on meteorjs
 - [ccxt-trade-mgr](https://github.com/notlesh/ccxt-trade-mgr) - take profit vs. stop loss
+- [EasyTrage](https://github.com/Vikrammel/EasyTrage) - crypto arbitrage bot in MERN
 
 ## Trading toolkits
 
