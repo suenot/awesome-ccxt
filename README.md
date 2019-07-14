@@ -67,7 +67,8 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 
 - [ccxt-rest](https://github.com/franz-see/ccxt-rest) - Unified REST API on #javascript
 - [ccxt-microservice](https://github.com/xeno14/ccxt-microservice) - Unified REST API on #python
-- [ccxt-server](https://github.com/mpakus/ccxt-server) - #javascript
+- [mpakus/ccxt-server](https://github.com/mpakus/ccxt-server) - #javascript
+- [imloama/ccxt-server](https://github.com/imloama/ccxt-server) - #typescript
 
 ## AI
 
