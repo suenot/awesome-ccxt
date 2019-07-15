@@ -30,9 +30,9 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 - [ZenBot](https://github.com/carlos8f/zenbot) - A command-line cryptocurrency trading bot using Node.js and MongoDB.
 - [Titan](https://github.com/Denton24646/Titan) - Based on python, flask, postgres.
 - [Python-crypto-Bot](https://github.com/Seigneur774/Python-crypto-Bot)
-- [Nash] - https://github.com/joelsfoster/Nash - Arbitrage bot on meteorjs
+- [Nash](https://github.com/joelsfoster/Nash) - Arbitrage bot on meteorjs
 - [cryptodaemon](https://github.com/gmark4212/cryptodaemon) - Bot watches which currencies are now in a significant decline but have the potential for growth.
-- [pine-bot-client] - https://github.com/kzh-dev/pine-bot-client
+- [pine-bot-client](https://github.com/kzh-dev/pine-bot-client)
 - [cryptobot](https://github.com/Zane-/cryptobot) - lowhighbot, poolbot, releasebot
 
 ## Signals
