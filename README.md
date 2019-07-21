@@ -50,6 +50,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 - [bt-ccxt-store](https://github.com/Dave-Vallance/bt-ccxt-store) – Store with backtesting. #python
 - [ZTOM](https://github.com/ztomsy/ztom) - #python, #backtesting, #rest, orders manager, loggin, reporting, throttling control.
 - [TradingSystemDemo](https://github.com/FWangTrading/TradingSystemDemo) - #Catalyst, #CryptoCompare, #backtesting, #alerts, #trading, #python
+- [Visuccxt](https://github.com/wnklb/Visuccxt) - #python
 
 ## Trading terminals
 
