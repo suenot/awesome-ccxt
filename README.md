@@ -34,6 +34,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 - [cryptodaemon](https://github.com/gmark4212/cryptodaemon) - Bot watches which currencies are now in a significant decline but have the potential for growth.
 - [pine-bot-client](https://github.com/kzh-dev/pine-bot-client)
 - [cryptobot](https://github.com/Zane-/cryptobot) - lowhighbot, poolbot, releasebot
+- [ccxt-trader](https://github.com/Schnides123/ccxt-trader) - cryptocurrency arbitrage calculator on #python
 
 ## Signals
 
