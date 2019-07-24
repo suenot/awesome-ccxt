@@ -35,6 +35,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 - [pine-bot-client](https://github.com/kzh-dev/pine-bot-client)
 - [cryptobot](https://github.com/Zane-/cryptobot) - lowhighbot, poolbot, releasebot
 - [ccxt-trader](https://github.com/Schnides123/ccxt-trader) - cryptocurrency arbitrage calculator on #python
+- [KryptoBot](https://github.com/eristoddle/KryptoBot)
 
 ## Signals
 
