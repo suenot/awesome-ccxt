@@ -36,6 +36,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 - [cryptobot](https://github.com/Zane-/cryptobot) - lowhighbot, poolbot, releasebot
 - [ccxt-trader](https://github.com/Schnides123/ccxt-trader) - cryptocurrency arbitrage calculator on #python
 - [KryptoBot](https://github.com/eristoddle/KryptoBot)
+- [blockbid-ccxt-tutorials](https://github.com/thomasdavis/blockbid-ccxt-tutorials)
 
 ## Signals
 
