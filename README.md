@@ -54,6 +54,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 - [ZTOM](https://github.com/ztomsy/ztom) - #python, #backtesting, #rest, orders manager, loggin, reporting, throttling control.
 - [TradingSystemDemo](https://github.com/FWangTrading/TradingSystemDemo) - #Catalyst, #CryptoCompare, #backtesting, #alerts, #trading, #python
 - [Visuccxt](https://github.com/wnklb/Visuccxt) - #python
+- [DataSynchronizer](https://github.com/stockmlbot/DataSynchronizer)
 
 ## Trading terminals
 
