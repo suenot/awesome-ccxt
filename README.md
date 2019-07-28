@@ -97,10 +97,12 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 ## Javascript examples
 
 - [Examples from ccxt](https://github.com/ccxt/ccxt/tree/master/examples/js)
+- [Using ccxt and technicalindicators to calculate MACD for BTC/USDT with Node.js](https://runkit.com/dhilipb/macd-for-btc-usdt) – A runkit sample showing how to fetch data and run statistical calculations.
 
 ## Python examples
 
 - [Examples from ccxt](https://github.com/ccxt/ccxt/tree/master/examples/py)
+- [ccxt_notes](https://github.com/yinruiqing/ccxt_notes) - jupiter notebooks
 
 ## PHP examples
 
@@ -108,7 +110,6 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 
 ## Articles
 
-- [Using ccxt and technicalindicators to calculate MACD for BTC/USDT with Node.js](https://runkit.com/dhilipb/macd-for-btc-usdt) – A runkit sample showing how to fetch data and run statistical calculations.
 - [Enigma Catalyst](https://blog.enigma.co/enigma-announces-catalyst-0-4-our-biggest-release-yet-fa31a5ffa4b1) – The major effort towards decentralized exchanges integrates ccxt!
 - [Playing with CCXT in Google Colab](https://medium.com/@ccxt/playing-with-ccxt-in-google-colab-23522ac8a6cb) – An article on how useful Colab can be for quick prototyping and testing your trading ideas with CCXT.
 - [CC Power Analytics Part 1: How to get the data of the exchanges](https://www.linkedin.com/pulse/part-1-cc-power-analytics-how-get-data-exchanges-steve-rein/) – The first part of a series of articles on cryptocurrency analytics.
