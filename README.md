@@ -72,6 +72,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 
 ## API
 
+- [sanic-ccxt](https://github.com/zloyuser/sanic-ccxt) - Unified REST API on #python
 - [ccxt-rest](https://github.com/franz-see/ccxt-rest) - Unified REST API on #javascript
 - [ccxt-microservice](https://github.com/xeno14/ccxt-microservice) - Unified REST API on #python
 - [mpakus/ccxt-server](https://github.com/mpakus/ccxt-server) - #javascript
