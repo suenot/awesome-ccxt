@@ -88,6 +88,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 - [node-red-contrib-ccxt](https://github.com/masalinas/node-red-contrib-ccxt) - Node-red integration.
 - [freqcache](https://github.com/creslinux/freqcache) - A environment to control egress and ingress data from ccxt fronted trading bots for security and scalability
 - [candlestick-convert](https://github.com/valamidev/candlestick-convert) - [Object,Object] => [[],[]]
+- [crypto-exporter](https://github.com/ix-ai/crypto-exporter) - An exporter capable of connecting to multiple exchanges and getting account balances and exchange rates
 
 ## Languages
 
