@@ -107,6 +107,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 
 - [Examples from ccxt](https://github.com/ccxt/ccxt/tree/master/examples/py)
 - [ccxt_notes](https://github.com/yinruiqing/ccxt_notes) - jupiter notebooks
+- [51bitqunt](https://github.com/ramoslin02/51bitqunt) - video playlist
 
 ## PHP examples
 
