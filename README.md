@@ -48,6 +48,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 - [ccxt-trade-mgr](https://github.com/notlesh/ccxt-trade-mgr) - take profit vs. stop loss
 - [EasyTrage](https://github.com/Vikrammel/EasyTrage) - crypto arbitrage bot in MERN
 - [Automatic-Arbitrage-Crypto-exchange](https://github.com/ZgodaRafal/Automatic-Arbitrage-Crypto-exchange)
+- [Cryptocurrency-Multi-Exchange-Arbitrage-Strategy](https://github.com/chicago-joe/Cryptocurrency-Multi-Exchange-Arbitrage-Strategy)
 
 ## Trading toolkits
 
