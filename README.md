@@ -56,6 +56,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 - [TradingSystemDemo](https://github.com/FWangTrading/TradingSystemDemo) - #Catalyst, #CryptoCompare, #backtesting, #alerts, #trading, #python
 - [Visuccxt](https://github.com/wnklb/Visuccxt) - #python
 - [DataSynchronizer](https://github.com/stockmlbot/DataSynchronizer)
+- [Trading-indicator](https://github.com/thanhnguyennguyen/trading-indicator) - fetch data with ccxt and generate indicators
 
 ## Trading terminals
 
