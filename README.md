@@ -36,6 +36,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 - [KryptoBot](https://github.com/eristoddle/KryptoBot)
 - [blockbid-ccxt-tutorials](https://github.com/thomasdavis/blockbid-ccxt-tutorials)
 - [trader0](https://github.com/kebnekaise-io/trader0)
+- [bakuchi](https://github.com/tsu-nera/bakuchi) - arbitrage bot
 
 ## Signals
 
