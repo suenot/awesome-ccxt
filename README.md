@@ -100,9 +100,12 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 ## Languages
 
 - [CCXT](https://github.com/ccxt/ccxt) - Javascript, python, php, C#.
+- [kizzx2/ccxt-rs](https://github.com/kizzx2/ccxt-rs) - Rust.
+- [irbis-labs/ccxt-rs](https://github.com/irbis-labs/ccxt-rs) - Rust. Early version. See branch 'preview'.
 - [CCXT.NET](https://github.com/lisa3907/ccxt.net) - C#.
 - [ccxtex](https://github.com/metachaos-systems/ccxtex) - Elixir/Erlang.
 - [ccxt.dart](https://github.com/Sach97/ccxt.dart) - Dart.
+- [ccxt-go](https://github.com/prompt-cash/ccxt-go) - Go.
 
 ## Javascript examples
 
