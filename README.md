@@ -99,7 +99,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 
 ## Languages
 
-- [CCXT](https://github.com/ccxt/ccxt) - Javascript, python, php.
+- [CCXT](https://github.com/ccxt/ccxt) - Javascript, python, php, C#.
 - [CCXT.NET](https://github.com/lisa3907/ccxt.net) - C#.
 - [ccxtex](https://github.com/metachaos-systems/ccxtex) - Elixir/Erlang.
 - [ccxt.dart](https://github.com/Sach97/ccxt.dart) - Dart.
