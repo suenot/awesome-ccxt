@@ -63,7 +63,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 
 ## Trading terminals
 
-- [Kupi-terminal](https://github.com/kupi-network/kupi-terminal) - Customized, extendable trading platform based on js, vue, react, express (rest api), mongo. Can: plot OHLCV, buy/sell, show balances, history balances, orders, trades, my orders, my trades.
+- [Profitmaker.cc](https://github.com/suenot/profitmaker) - Customized, extendable trading platform based on js, vue, react, express (rest api), mongo. Can: plot OHLCV, buy/sell, show balances, history balances, orders, trades, my orders, my trades.
 - [ccxt-trading-cp](https://github.com/michnovka/ccxt-trading-cp) - Trading terminal in console: plot OHLCV, find arbitrage signals, buy/sell, show balances.
 - [Auto-Trade-Crypto-Bot](https://github.com/dev4Fun/Auto-Trade-Crypto-Bot) - Crypto trading #bot in #python with #telegram.
 - [ccxt-exchange-template](https://github.com/AdrenalineAI/ccxt-exchange-template) - python
