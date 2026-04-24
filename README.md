@@ -24,6 +24,8 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 
 ## Trading bots
 
+
+- [DeepAlpha](https://github.com/stefanoviana/deepalpha) - AI crypto trading bot with 70.9% walk-forward validated accuracy. XGBoost + LightGBM ensemble with 72 features. MIT license.
 - [Supertrend crypto bot](https://github.com/hackingthemarkets/supertrend-crypto-bot) - Python, pandas. Has a good video tutorial.
 - [CryptoMon Bot](https://github.com/jchristov/cryptomon-bot) - Helps tracking of your cryptocurrency investments and making smart, informed buy/sell decisions.
 - [ZenBot](https://github.com/carlos8f/zenbot) - A command-line cryptocurrency trading bot using Node.js and MongoDB.
