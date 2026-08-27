@@ -91,6 +91,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 ## AI
 
 - [Taurus](https://github.com/OptimalPandemic/taurus) - A cryptocurrency trading platform using deep reinforcement learning.
+- [CoinRebate MCP](https://github.com/skheman2026-sketch/coinrebate-mcp-server) - MCP server for AI agents: live trading fees (fetched via CCXT) and rebate comparison across 7 exchanges, with per-country compliance filtering and a trading-cost calculator.
 
 ## Utils
 
