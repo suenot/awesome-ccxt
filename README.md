@@ -91,6 +91,7 @@ Thanks to all the [contributors](https://github.com/suenot/awesome-ccxt/graphs/c
 ## AI
 
 - [Taurus](https://github.com/OptimalPandemic/taurus) - A cryptocurrency trading platform using deep reinforcement learning.
+- [Krexa](https://www.krexa.xyz) - AI trading agents that turn a post, video or idea into fixed rules, backtest and paper-trade them, then trade on Binance, Coinbase, Kraken, OKX, Bybit, MEXC, Hyperliquid, Polymarket and Solana DEXs with per-order limits enforced in code. [Agent skill + MCP](https://github.com/Krexa-xyz/skills).
 
 ## Utils
 
